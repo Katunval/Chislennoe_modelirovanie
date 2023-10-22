@@ -1,0 +1,2 @@
+# Chislennoe_modelirovanie
+Численное моделирование процесса
